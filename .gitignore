@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+models/*.joblib
+models/evaluation_metrics.json
+data/spam_dataset.csv
